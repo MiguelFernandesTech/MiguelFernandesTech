@@ -5,4 +5,4 @@
 - 🔭 I’m currently studying on 42Porto School.
 - 🌱 I’m currently learning C language.
 - 📚 I’m learning SQL/MySQL by my own!
-- I'm passionate about Back-End.
+- 👾 I'm passionate about Back-End.
